@@ -1,0 +1,11 @@
+{
+  "entrance": ".KotlinPluginTemplate",
+  "name": "KotlinPluginTemplate",
+  "description": "${description}",
+  "authors": [
+    "Cdm2883"
+  ],
+  "version": "${version}",
+  "dependencies": [],
+  "website": "https://github.com/MineBuilders/allaymc-kotlin-plugin-template"
+}
