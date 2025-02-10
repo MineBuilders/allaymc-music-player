@@ -1,11 +1,11 @@
 {
-  "entrance": ".KotlinPluginTemplate",
-  "name": "KotlinPluginTemplate",
+  "entrance": ".MusicPlugin",
+  "name": "MusicPlayer",
   "description": "${description}",
   "authors": [
-    "Cdm2883"
+    "MineBuilder"
   ],
   "version": "${version}",
   "dependencies": [],
-  "website": "https://github.com/MineBuilders/allaymc-kotlin-plugin-template"
+  "website": "https://github.com/MineBuilders/allaymc-music-player"
 }

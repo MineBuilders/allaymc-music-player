@@ -1,1 +1,1 @@
-rootProject.name = "allaymc-kotlin-plugin-template"
+rootProject.name = "allaymc-music-player"
